@@ -13,7 +13,7 @@ Pbind(
 
 // Pxrand (choose randomly, but no repeats)
 (
-p = Pbind(
+Pbind(
 	\note, Pxrand([0, 2, 3, 5, 7, 8, 11, 12], inf),
 	\dur, 0.15;
 ).trace.play;
