@@ -1,5 +1,5 @@
 // See post window for the path of the recording
-// Basic mouse Theremin
+// Basic mouse Theremin with ability to record
 
 (
 s.record;
